@@ -9,6 +9,7 @@ Firstly you need to run the "install.sh" file for requirements
 
 > ./install.sh
 ---------------------------------------------------------------
+
 Then you should stop the NetworkManager for execute the python program
 
 -----------------------------------------------
