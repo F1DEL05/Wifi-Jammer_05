@@ -11,7 +11,7 @@
 
 ---------------------------------------------------------------
 
-!!!!!Please stop NetworkManager before run the deauth.py!!!!!!!
+!!!!!Please don`t forget to stop NetworkManager before run the deauth.py!!!!!!!
 ---------------------------------------------------------------
 
 
