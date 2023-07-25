@@ -6,6 +6,7 @@ Firstly you need to run the "install.sh" file for requirements
 
 ---------------------------------------------------------------
 > echo +x install.sh
+>
 > ./install.sh
 ---------------------------------------------------------------
 
