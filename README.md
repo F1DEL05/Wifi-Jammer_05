@@ -19,3 +19,12 @@ Then you should stop the NetworkManager for execute the python program
                     End
 After this commands you can run the "deauther.py" file .
 And when your work is end You can start NetworkManager
+
+This Script must use for educational purposes , Please do not use it maliciously :d
+
+-F1DEL
+
+               :::::Contact:::::: 
+Discord: f1del_05
+
+
