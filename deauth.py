@@ -17,12 +17,12 @@ if control_root==0:
     print("\n\nLoading...")
     time.sleep(1.5)
     os.system("clear")
-
+    
     for i in interfaces:
         if i!="lo" and i!="eth0":
             list_interfaces.append(i)
 
-
+    print("Welcome To Wifi handshake capturing tool by F1del\n[+]Please Stop Network Manager to before run the program")
     #----------------------------------MONITOR MODE------------------------------------------
     a=0
     while True:
