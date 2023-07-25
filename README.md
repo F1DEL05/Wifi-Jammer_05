@@ -15,7 +15,7 @@ Then you should stop the NetworkManager for execute the python program
 > service NetworkManager stop
 ---------------------------------------------------------------
 
-                    :accessibility::End:accessibility:
+                 🥇End🥇
 After this commands you can run the "deauther.py" file .
 And when your work is end You can start NetworkManager
 
@@ -23,7 +23,7 @@ This Script must use for educational purposes , Please do not use it maliciously
 
 -F1DEL
 
-               :::::Contact:::::: 
+               🧮Contact🧮
 Discord: f1del_05
 
 
