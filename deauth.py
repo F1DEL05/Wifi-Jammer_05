@@ -60,7 +60,7 @@ if control_root==0:
                 interface_=interface_+"mon"
                 continue
         try:
-            bssid=input("\nMAC : ")
+            bssid=input("\nMAC (BSSID) : ")
             channel=int(input("\nChannel Num(CH):"))
             pkg_=int(input("\nHow many packages you want send ?(40-50 recommended) : "))
             os.system("clear")
