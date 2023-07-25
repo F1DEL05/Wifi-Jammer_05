@@ -14,6 +14,8 @@ Then you should stop the NetworkManager for execute the python program
 
 ---------------------------------------------------------------
 > service NetworkManager stop
+>
+> python3 deauth.py
 ---------------------------------------------------------------
 
                  🥇End🥇
